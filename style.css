@@ -1,0 +1,12 @@
+h1{
+  color: #32e050;
+}
+
+h1:hover {
+  color: red;
+}
+p{
+  text-align:  justify;
+}
+
+/* desarrolloweb.dlsi.ua.es y botstrap*/
